@@ -4,7 +4,7 @@ A one-way sync from a personal Outlook.com (Live) calendar to a Google Workspace
 
 Personal events become **private busy blocks** on your work calendar, so colleagues don't book calls while you're at the mechanic. Nothing travels in the other direction: no work data leaves the work account, and no third-party service gets access to it.
 
-📖 The full story, with the motivation and the design choices: [Busy, Not Nosy: a One-Way Sync from My Personal Calendar to Google Workspace](ARTICLE_URL)
+📖 The full story, with the motivation and the design choices: [Busy, Not Nosy: a One-Way Sync from My Personal Calendar to Google Workspace]([ARTICLE_URL](https://damianogiorgi.it/articles/2026/10/sync-outlook-calendar-to-google-workspace-apps-script/))
 
 ## How it works
 
